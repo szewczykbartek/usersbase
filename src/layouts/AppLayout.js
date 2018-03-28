@@ -19,14 +19,10 @@ import "../assets/css/paper-dashboard.css";
 import "../assets/css/themify-icons.css";
 
 class AppLayout extends Component {
-  // constructor(props) {
-  //   super(props);
-  // }
-
   componentDidMount() {
     this.props.usersImport(usersData);
   }
-
+  
   render() {
     return (
       <div className="app">
