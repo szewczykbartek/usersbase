@@ -1,0 +1,27 @@
+[{
+      "id": 126364,
+      "firstname": "Jan",
+      "surname": "Kowalski",
+      "city": "Rybnik",
+      "country": "Poland",
+      "gender": "Male",
+      "cover": "https://graph.facebook.com/1702972434/picture?type=large"
+    },
+    {
+      "id": 4353,
+      "firstname": "Joanna",
+      "surname": "Popczyk",
+      "city": "Warszawa",
+      "country": "Poland",
+      "gender": "Female",
+      "cover": "https://graph.facebook.com/1702972445/picture?type=large"
+    },
+    {
+      "id": 4567,
+      "firstname": "Jozin",
+      "surname": "Bazin",
+      "city": "Prague",
+      "country": "Czech Republic",
+      "gender": "Male",
+      "cover": "https://graph.facebook.com/1702972235/picture?type=large"
+    }]
