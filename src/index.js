@@ -22,4 +22,8 @@ render(
 
 /// zmiana popczyk
 // zmiana szewczyk
+<<<<<<< HEAD
 // szewczyk
+=======
+// popczyk
+>>>>>>> a3fbdcd1aeac17a0e275bbf6bd38b41ca88b066c
