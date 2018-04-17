@@ -10,7 +10,7 @@ const store = createStore(rootReducer)
 //
 // var mongojs = require('mongojs');
 // //var db = mongojs('mongodb://localhost:27017/todoapp', ['todos']);
-// 
+//
 
 render(
   <Provider store={store}>
@@ -21,3 +21,4 @@ render(
 )
 
 /// zmiana popczyk
+// zmiana szewczyk
