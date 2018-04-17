@@ -5,8 +5,12 @@ import { Provider } from 'react-redux'
 import rootReducer from './reducers'
 
 import AppLayout from './layouts/AppLayout'
-
 const store = createStore(rootReducer)
+//
+//
+// var mongojs = require('mongojs');
+// //var db = mongojs('mongodb://localhost:27017/todoapp', ['todos']);
+// 
 
 render(
   <Provider store={store}>
